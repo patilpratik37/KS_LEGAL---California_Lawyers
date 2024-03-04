@@ -1,4 +1,4 @@
-# KS_LEGAL - California_Lawyers
+# KS_Legal_and_Associates - California_Lawyers_Dataset
 
 # California Lawyers: Yellow Pages Dataset⚖️
 # Link : https://www.kaggle.com/datasets/kanchana1990/california-lawyers-yellow-pages-dataset/data
