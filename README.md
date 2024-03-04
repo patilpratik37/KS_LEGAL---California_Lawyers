@@ -1,6 +1,7 @@
 # KS_Legal_and_Associates - California_Lawyers_Dataset
 
 # California Lawyers: Yellow Pages Dataset⚖️
+# Task: Performed data cleaning by filling missing values, computing descriptive statistics, and dropping irrelevant columns such as 'address', 'infoSnippet', 'reviewSnippet', and 'phone', followed by visualizing the distribution of ratings, identifying the first 5 repeated names (clients), and visualizing the distribution of top 5 ratings.
 # Link : https://www.kaggle.com/datasets/kanchana1990/california-lawyers-yellow-pages-dataset/data
 # Dataset updated 9 days ago
 ## Overview
