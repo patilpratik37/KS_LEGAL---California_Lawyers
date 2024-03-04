@@ -2,6 +2,7 @@
 
 # California Lawyers: Yellow Pages Dataset⚖️
 # Link : https://www.kaggle.com/datasets/kanchana1990/california-lawyers-yellow-pages-dataset/data
+# Dataset updated 9 days ago
 ## Overview
 Dive into the heart of California's legal landscape with our meticulously curated dataset, "California Lawyers: Yellow Pages Dataset⚖️." This collection offers a panoramic view of over 800 legal professionals and firms dotted across the Golden State, each entry a beacon of potential insight into the dynamics of legal services in this vibrant region. From bustling metropolises like Los Angeles and San Francisco to the serene landscapes of Napa Valley, our dataset is a gateway to understanding the fabric of California's legal community.
 
