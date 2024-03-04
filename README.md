@@ -17,3 +17,14 @@ Given its focused scope, this dataset is perfectly poised for niche explorations
 - **ReviewSnippet**: Client reviews in brief, a rich text data source for sentiment analysis.
 - **URL**: The Yellow Pages link to the full listing, connecting the dataset to a broader pool of information.
 - **Website**: Direct websites of the firms or professionals, a doorway to in-depth qualitative research.
+
+# Performed Data Cleaning using: 
+-**Filling missing values**
+-**Descriptive statistics**
+-**Drop irrelevant columns such as ('address', 'infoSnippet', 'reviewSnippet', 'phone')**
+
+
+## Visualized
+-**Distribution of Ratings**
+-**First 5 Repeated Names (Clients)**
+-**Top 5 Ratings Distribution**
